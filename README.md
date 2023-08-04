@@ -3,7 +3,13 @@
     <img height="100" vspace="" hspace="25"
       src="https://raw.githubusercontent.com/johnlettman/overpassql-loader/main/.github/assets/overpass-icon.svg">
   </a>
-  <h1>Montgomery County, MD, USA<br>Bill 21-22E "Firearms - Weapons"<br>GIS analysis OverpassQL queries</h1>
+  <h1>
+    Montgomery County, MD, USA<br>
+    <small>
+      Bill 21-22E "Firearms - Weapons"<br>
+      GIS analysis OverpassQL queries
+    </small>
+  </h1>
 </div>
 
 This repository contains a collection of [OverpassQL][url-overpassql] queries
