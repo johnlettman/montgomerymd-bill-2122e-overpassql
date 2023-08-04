@@ -5,10 +5,10 @@
   </a>
   <h1>
     Montgomery County, MD, USA<br>
-    <span style="font-size:75%">
+    <sub><sup>
       Bill 21-22E "Firearms - Weapons"<br>
       GIS analysis OverpassQL queries
-    </span>
+    </sup></sub>
   </h1>
 </div>
 
