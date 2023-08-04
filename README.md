@@ -6,8 +6,7 @@
   <h1>
     Montgomery County, MD, USA<br>
     <sub><sup>
-      Bill 21-22E "Firearms - Weapons"<br>
-      GIS analysis OverpassQL queries
+      Bill 21-22E "Firearms - Weapons" GIS analysis OverpassQL queries
     </sup></sub>
   </h1>
 </div>
