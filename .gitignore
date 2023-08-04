@@ -1,0 +1,10 @@
+# Output directory
+output
+
+# Output files
+*.geojson
+*.gpx
+*.kml
+*.osm.csv
+*.osm.json
+*.osm.xml
